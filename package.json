@@ -24,7 +24,7 @@
     "gulp-uglify": "^3.0.1",
     "i18next": "^13.0.0",
     "immutable": "^4.0.0-rc.12",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "moment": "^2.23.0",
     "node-sass": "^4.11.0",
     "nodemon": "^1.18.9",
